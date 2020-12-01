@@ -20,7 +20,7 @@ open-source software via Cryptonote original whitepaper
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license 
+Quid Core is released under the terms of the MIT license 
 https://opensource.org/licenses/MIT.
 
 ## DISCLAIMER ##
